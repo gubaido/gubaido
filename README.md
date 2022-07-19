@@ -7,3 +7,4 @@
 <!---
 gubaido/gubaido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+varifai a Facebook now ond have fb dejavold so click a link and varifai to Facebook
